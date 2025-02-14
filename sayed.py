@@ -5,4 +5,4 @@ print("Hello, World!")
 name = input("What is your name? ")
 
 # Print a personalized message
-print(f"Nice to meet you, {name}!")
+print(f"how are you, {name}!")
